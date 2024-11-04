@@ -32,7 +32,8 @@ This project demonstrates a basic implementation of Firebase Cloud Messaging (FC
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/fcmpushnotificationhttpv1.git
+   git clone https://github.com/IsuruSankhajith/fcmpushnotificationhttpv1.git
+   
    ```
    
 2. **Set Up Firebase**:
